@@ -6,3 +6,10 @@ Apply Bourta Feature Selection Function over Ranadom Forest algorithms for every
 
 # Expected Outcome 
 Features are selected with labeled 'confirmed', 'tentative' and and 'rejected'
+
+# Libraries Used
+Pandas
+Numpy
+LabelEncoder
+RandomForest
+BorutaPy
